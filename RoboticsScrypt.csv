@@ -1,0 +1,12 @@
+65,45,30,34,65,67,0.17
+45,90,42,34,50,92,0.17
+Colormixer = {'Color':[234,45,134],'Pos':[233,123,45]}
+Base,37,Shoulder,77,Elbow,113,Rotfingers,34,timing,16,CenterAssembly90,Hydraulicunit,65,GripperActuators,67
+Base,56,Shoulder,88,Elbow,141,Rotfingers,34,timing,20,CenterAssembly248,Hydraulicunit,65,GripperActuators,67
+Base,56,Shoulder,147,Elbow,113,Rotfingers,34,timing,20,CenterAssembly248,Hydraulicunit,65,GripperActuators,67
+Drillname,ER_103,0.6,pos,34,50,45
+Drilllist,ER_103,ER_104,ER_105,ER_6,ER_107,ER_108
+Grippername,GR_1,3,18,pos,23,34,20
+Gripperlist,GR_3,GR_4,GR_5,GR_6,GR_7,GR_8
+Vacuum,VA_1,3,18,pos,23,34,20
+Vacuumlist,VA_1,VA_2,VA_3,VA_4,VA_5,VA_6
